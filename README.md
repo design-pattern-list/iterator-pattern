@@ -2,7 +2,7 @@
 ### Type
 The Iterator Pattern is **a behavioral pattern**.
 ### Description
-The iterator design pattern gives you the ability to *use different types of iterates to iterate through different types of complex data structures*.
+The iterator design pattern gives you the ability to *use different types of iterators to iterate through different types of complex data structures*.
 ### Use
 1. When you want to use x types of iterators to loop through a complex data structure.
 ### Prevent
